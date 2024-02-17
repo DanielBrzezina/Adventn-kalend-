@@ -1,0 +1,10 @@
+body{background: rgb(255,255,255);
+    background: linear-gradient(233deg, rgba(255,255,255,1) 16%, rgba(231,227,227,1) 49%, rgba(68,244,233,1) 100%);}
+    a{color: rgb(178, 171, 171);}
+    a:visited {
+        color: rgb(0, 0, 0);
+        }
+    a:hover{
+        color: rgb(85, 85, 85);
+    }
+    img{text-align: center;}
